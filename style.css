@@ -718,7 +718,7 @@ noscript {
     background-color: transparent
 }
 #work .jello {
-  font-size: 20.5rem; /* or any size you prefer */
+  font-size: 10.5rem; /* or any size you prefer */
 }
 
 @-webkit-keyframes jello-vertical {
